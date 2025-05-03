@@ -1,2 +1,1 @@
-# CS772-
-FInal Project
+# CS772-Final Project:Deterministic Vs Partially Stochastic Vs Fully Stochastic
